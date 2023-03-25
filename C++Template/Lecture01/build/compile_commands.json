@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Project/C++/Book/C++Template/Lecture01/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\main.cpp.obj -c E:\\Project\\C++\\Book\\C++Template\\Lecture01\\main.cpp",
+  "file": "E:/Project/C++/Book/C++Template/Lecture01/main.cpp"
+}
+]
